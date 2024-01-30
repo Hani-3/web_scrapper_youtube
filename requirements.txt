@@ -4,3 +4,4 @@ requests
 bs4
 pymongo
 selenium
+gunicorn==20.1.0
